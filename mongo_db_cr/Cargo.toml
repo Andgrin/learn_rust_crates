@@ -1,5 +1,5 @@
 [package]
-name = "learn_rust_crates"
+name = "mongo_db_cr"
 version = "0.1.0"
 edition = "2021"
 
